@@ -9,4 +9,5 @@ I made a simple fix.
 |Login |✅ |
 |TimeLine |❌ |
 |TalkService |80% |
+|ChannelService |uji coba... |
 |ChannelService |Testing... |
