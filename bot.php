@@ -6,8 +6,8 @@ include 'LineApi.php';
 
 /* Type. 1	Mail & Pass Login
 
-$mail     = 'xxx@gmail.com';
-$password = 'xxx';
+$mail     = 'dimasgiosoecipto@gmail.com';
+$password = 'braja123';
 $cert = '';
 $Line = new Line(NULL, $mail, $pass, NULL);
 
@@ -17,8 +17,8 @@ $Line = new Line(NULL, $mail, $pass, NULL);
 
 /* Type. 2	Mail & Pass Login & Certificate
 
-$mail     = 'xxx@gmail.com';
-$password = 'xxx';
+$mail     = 'dimasgiosoecipto@gmail.com';
+$password = 'braja123';
 $cert = 'XXXXXXXXXXX';
 $Line = new Line(NULL, $mail, $pass, $cert);
 
